@@ -1,2 +1,2 @@
-![(HW)Kiểm thử chức năng_Page_1](https://user-images.githubusercontent.com/72114667/195348017-6b872004-acd5-4c47-9962-5ee0120df351.png)
-![(HW)Kiểm thử chức năng_Page_2](https://user-images.githubusercontent.com/72114667/195348028-cedda470-872c-4965-9a5c-314f2fd563eb.png)
+[(HW1)Kiểm thử chức năng.pdf](https://github.com/LnG-a/Testing/files/9821095/HW.Ki.m.th.ch.c.nang.pdf)
+[(HW2) Kiểm thử dòng điều khiển.pdf](https://github.com/LnG-a/Testing/files/9821102/HW.Ki.m.th.dong.di.u.khi.n.pdf)
